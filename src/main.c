@@ -1,3 +1,6 @@
+/* Stm32f407vg kit uzerinde bulunan ledlerden CH4 %25 doluluk oranında yanar CH3 %50 doluluk oraninda 
+   CH2 %75 doluluk oraninda CH1 %100 doluluk oraninda yanmaktadir.*/
+
 #include "stm32f4xx.h"
 #include "stm32f4_discovery.h"
 
